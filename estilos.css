@@ -1,0 +1,38 @@
+h
+h1 {
+    font-style: italic;
+}
+
+
+h1 {
+    background-color:rgba(180, 223, 223, 0.945); /* Color de fondo */
+    
+   
+padding: 10px; /* Añade espacio alrededor del texto */
+    
+   
+display: inline-block; /* Para que el fondo abarque solo el ancho del texto */
+}
+
+h3 {
+    background-color:rgb(236, 131, 175); /* Color de fondo */
+    
+   
+padding: 10px; /* Añade espacio alrededor del texto */
+    
+   
+display: inline-block; /* Para que el fondo abarque solo el ancho del texto */
+}
+
+.colored-corner {
+    width: 200px;
+    height: 200px;
+    background-color: #f0f; /* Cambia el color de fondo según tu preferencia */
+    border-top-left-radius: 80px; /* Ajusta el radio de la esquina superior izquierda */
+    border-bottom-right-radius: 80px; /* Ajusta el radio de la esquina inferior derecha */
+}
+
+
+.pagina1 {
+    background-color:aliceblue
+}
